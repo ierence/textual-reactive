@@ -1,6 +1,6 @@
 [project]
 name = "textual-reactive"
-version = "0.1.0a1"
+version = "0.1.0a2"
 description = "React-like state management for Textual TUI framework"
 readme = "README.md"
 license = "MIT"
